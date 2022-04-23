@@ -1,0 +1,10 @@
+export {default as Navbar} from './Navbar';
+export {default as Header} from './Header';
+export {default as Categories} from './Categories';
+export {default as DiscoverCate} from './DiscoverCate';
+export {default as Collections} from './Collections';
+export {default as Teams} from './Teams';
+export {default as Testimonials} from './Testimonials';
+export {default as ContactUs} from './ContactUs';
+export {default as Features} from './Features';
+export {default as Footer} from './Footer';
